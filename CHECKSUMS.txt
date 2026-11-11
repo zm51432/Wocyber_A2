@@ -1,0 +1,2 @@
+5902828255619f447862265e91ffd80f  fnOS_A2.img.gz
+90ca56aaffe3fad56bbf44cae29a46ad  fnOS_A2.img
